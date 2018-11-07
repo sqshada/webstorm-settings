@@ -20,6 +20,7 @@
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="SourceMap" />
+      <mapping pattern="MemberCard" type="TypeScript JSX" />
       <mapping pattern="age-group" type="XHTML" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
