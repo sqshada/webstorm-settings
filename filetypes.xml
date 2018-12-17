@@ -7,6 +7,7 @@
       <mapping ext="hjs" type="EJS" />
       <mapping ext="html___jb_bak___" type="HTML" />
       <mapping pattern="Router" type="JavaScript" />
+      <mapping pattern="Observerable" type="JavaScript" />
       <mapping pattern="user" type="Less" />
       <mapping ext="api" type="Markdown" />
       <mapping ext="workflow" type="Markdown" />
